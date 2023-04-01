@@ -4,5 +4,27 @@
 }
 
 body{
+    width: 100%;
     background-color: rgb(233,231,218);
+}
+
+.header{
+    padding: 35px 0px 0px 0px;
+    font-size: 25px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+
+.cuerpo{
+    display: flex;
+    justify-content: center;
+}
+
+.footer{
+    display: flex;
+    /* padding: 500px 0px 0px 0px; */
+    margin: 0 auto;
+    justify-content: space-around;
+    background-position: center bottom;
 }
