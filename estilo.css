@@ -23,7 +23,6 @@ body{
 
 .footer{
     display: flex;
-    /* padding: 500px 0px 0px 0px; */
     margin: 0 auto;
     justify-content: space-around;
     background-position: center bottom;
