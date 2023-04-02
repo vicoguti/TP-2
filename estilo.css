@@ -12,7 +12,7 @@ body{
 }
 .header{
     padding: 35px 80px 0px 80px;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 200;
     color: rgb(57,62,68);
     display: flex;
@@ -29,6 +29,7 @@ body{
 .texto1{
     padding: 20px 0px 20px 30px;
     margin: 140px 700px 0px 400px;
+    font-weight: 20;
     font-size: 38px;
     color: rgb(57,62,68);
     background-color: rgb(216,214,204);
